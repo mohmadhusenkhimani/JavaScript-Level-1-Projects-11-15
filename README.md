@@ -45,6 +45,3 @@ Enhanced understanding of Date objects and math operations.
 ## 🎯 Next Steps
 Moving to **Level-2 JavaScript Projects**, where I will build real DOM-based mini applications and interactive UI components.
 
----
-
-⭐ **Feel free to explore, fork, and try the projects yourself!**
